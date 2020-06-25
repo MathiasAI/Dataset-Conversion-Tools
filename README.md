@@ -1,4 +1,4 @@
-# YoloV3 Conversion Tools
+# Dataset Conversion Tools
 This repository contains a script to convert labels from MS COCO to Darknet format. Additional scripts to prepare and evaluate the dataset before training is also provided.
 
 ## Usage
