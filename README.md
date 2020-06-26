@@ -29,4 +29,4 @@ Change the paths and percentage train-val split before use.
 
 Testing latec formulas
 
-	<img src="https://render.githubusercontent.com/render/math?math=1 \times 1 \times (B \times (5 + C))">
+<img src="https://render.githubusercontent.com/render/math?math=    1 \times 1 \times (B \times (5 \plus C))">
