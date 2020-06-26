@@ -29,7 +29,6 @@ Change the paths and percentage train-val split before use.
 
 Testing latec formulas
 
-4. Update yolov3.cfg with the right number of filters in the detection kernel. The shape of the kernel is:
-<img src="https://render.githubusercontent.com/render/math?math=1 \times 1 \times (B \times (5 + C))">
+4. Update yolov3.cfg with the right number of filters in the detection kernel. The shape of the kernel is <img src="https://render.githubusercontent.com/render/math?math=1 \times 1 \times (B \times (5 %2B C))">.
 
 Where B is the number of bounding boxes, 5 is the 4 bounding box attributes and on object confidence, and C is the number of classes.
