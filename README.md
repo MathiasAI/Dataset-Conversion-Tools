@@ -26,3 +26,9 @@ The scripts converts the labels from MS COCO to Darknet format, which means, one
 Dataset_preparation_tools.py extracts images related to the converted labels and sorts them as expected by the YoloV3 implementation provided by[ Ultralytics](https://github.com/ultralytics/yolov3). The script also creates a list of images belonging to the training and validation set.
 
 Change the paths and percentage train-val split before use.
+
+Testing latec formulas
+
+$$ 
+1 \times 1 \times (B \times (5 + C))
+$$
